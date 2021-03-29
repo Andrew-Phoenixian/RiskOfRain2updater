@@ -2,6 +2,5 @@
 <item>
     <version>1.0.0.1</version>
     <url>https://github.com/Andrew-Phoenixian/RiskOfRain2updater/raw/main/Mods.zip</url>
-    <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
